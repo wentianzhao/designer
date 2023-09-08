@@ -1,2 +1,2 @@
 # designer
-design modern
+design pattern
